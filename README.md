@@ -1,4 +1,4 @@
-# December19th
+# December19th Derivatives
 
 tangent line visualizer with matplotlib. 
 
