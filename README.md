@@ -1,2 +1,7 @@
 # December19th
-repo of all code written on sunday, december 19th. no commits after this date!
+
+tangent line visualizer with matplotlib. 
+
+Go into ```derivative_video.py``` to run the ```plot_derivative()``` function (just enter your own function.)
+
+all made on december 19th when anish was bored
